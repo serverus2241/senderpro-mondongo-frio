@@ -65,3 +65,4 @@ if st.button("Enviar correo"):
             st.error(f"Error al enviar el correo: {e}")
     else:
         st.warning("Por favor, completa todos los campos.")
+
